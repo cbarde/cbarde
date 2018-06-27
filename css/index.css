@@ -1,0 +1,28 @@
+#nav-fluid-menu-social .nav-bg {
+    opacity:0.95;
+}
+#header-center-slogan-img-2 {
+	background: radial-gradient(circle, #000000 30%, #653e23 70%);
+}
+
+
+#header-center-slogan-img-2 .bg {
+	background-image: url('../images/header.jpg');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.59;
+}
+#team-5col-2row {
+	background: #ffffff;
+}
+
+#popup-center-img-text .modal-content {
+	background: #ffffff;
+}
+
+#footer-center-social-logo {
+    background: #222222;
+}
